@@ -1,0 +1,129 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1385px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u42_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1385px;
+  height:1188px;
+  background:inherit;
+  background-color:rgba(246, 247, 249, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u42 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:214px;
+  width:1385px;
+  height:1188px;
+}
+#u43 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:586px;
+  width:1381px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u44_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1375px;
+  height:214px;
+}
+#u44 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1375px;
+  height:214px;
+}
+#u45 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:99px;
+  width:1371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u46_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:998px;
+  height:2302px;
+}
+#u46 {
+  border-width:0px;
+  position:absolute;
+  left:172px;
+  top:214px;
+  width:998px;
+  height:2302px;
+}
+#u47 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:1143px;
+  width:994px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u48_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:46px;
+  height:31px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:20px;
+}
+#u48 {
+  border-width:0px;
+  position:absolute;
+  left:852px;
+  top:163px;
+  width:46px;
+  height:31px;
+  font-size:20px;
+}
+#u49 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:42px;
+  word-wrap:break-word;
+}
