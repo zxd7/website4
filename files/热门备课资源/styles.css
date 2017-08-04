@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u30_img {
+#u130_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:1375px;
   height:218px;
 }
-#u30 {
+#u130 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,7 +28,7 @@
   width:1375px;
   height:218px;
 }
-#u31 {
+#u131 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -37,7 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u32_img {
+#u132_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -45,7 +45,7 @@
   width:1375px;
   height:3269px;
 }
-#u32 {
+#u132 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -53,7 +53,7 @@
   width:1375px;
   height:3269px;
 }
-#u33 {
+#u133 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -61,4 +61,84 @@
   width:1371px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u134 {
+  border-width:0px;
+  position:absolute;
+  left:457px;
+  top:153px;
+  width:176px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u135 {
+  border-width:0px;
+  position:absolute;
+  left:166px;
+  top:153px;
+  width:176px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u136 {
+  border-width:0px;
+  position:absolute;
+  left:742px;
+  top:153px;
+  width:175px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u137 {
+  border-width:0px;
+  position:absolute;
+  left:1039px;
+  top:153px;
+  width:154px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u138 {
+  border-width:0px;
+  position:absolute;
+  left:490px;
+  top:9px;
+  width:100px;
+  height:49px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u139 {
+  border-width:0px;
+  position:absolute;
+  left:593px;
+  top:9px;
+  width:100px;
+  height:49px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u140 {
+  border-width:0px;
+  position:absolute;
+  left:698px;
+  top:9px;
+  width:100px;
+  height:49px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u141 {
+  border-width:0px;
+  position:absolute;
+  left:332px;
+  top:9px;
+  width:71px;
+  height:40px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
