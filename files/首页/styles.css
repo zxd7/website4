@@ -352,3 +352,28 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u116_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:138px;
+}
+#u116 {
+  border-width:0px;
+  position:absolute;
+  left:1333px;
+  top:775px;
+  width:50px;
+  height:138px;
+}
+#u117 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:61px;
+  width:46px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

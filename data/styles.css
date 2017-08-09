@@ -13,6 +13,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 ._图片 {
 }
 .placeholder {
@@ -70,6 +72,10 @@
 .line {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
   color:#000000;
   text-align:left;
 }
